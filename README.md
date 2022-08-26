@@ -17,3 +17,6 @@ The web app’s functionality is simple and minimal. It uses the concepts of Dee
 
 ### APPLICATION OF THE PROJECT
 This technology could be applied in self-driving and automated cars, where the captured images are detected and the car could take the respective actions.
+
+### REFERENCES
+**Dataset:** https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
