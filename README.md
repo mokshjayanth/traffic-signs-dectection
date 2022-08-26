@@ -1,5 +1,7 @@
 # Traffic Signs Detection
 **Course:** Deep Learning
+
+
 ![Drive Safe!](https://i.postimg.cc/sDQB9tcq/Drive-Safe.jpg)
 
 The web app’s functionality is simple and minimal. It uses the concepts of Deep Learning to predict the Traffic signs and notify the same to the user by sending them a caution message.
